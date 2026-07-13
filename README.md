@@ -1,8 +1,8 @@
 # Delivery Readme
-这是一个高校辅导员备考辅助 Skill，里面包含政策学习、可用题库训练、案例分析、结构化面试、公文写作和答案批改等内容。拿到后建议先看 README.md 和 quick-start.md，直接复制里面的指令开始用。提醒一下：题库包含题目1000+，部分题目需要核对；具体考试还是要以目标高校招聘公告和官方政策为准。
+这是一个高校辅导员备考辅助 Skill，里面包含政策学习、可用题库训练、案例分析、结构化面试、公文写作和答案批改等内容。拿到后建议先看 README.md 和 quick-start.md，直接复制里面的指令开始用。提醒一下：题库包含题目14,953，部分题目需要核对；具体考试还是要以目标高校招聘公告和官方政策为准。
 题库来源包括培训资料、模拟题、真题回忆。
 usable-question-bank 总题量为 10681。
-- 压缩包名称：college-counselor-prep-v1.0-usable-question-bank.zip
+- 压缩包名称：college-counselor-prep-v1.3-usable-question-bank.zip
 - 压缩包内容：`college-counselor-prep/` Skill 目录，包含 SKILL.md、README、quick-start、source-disclaimer、usable 题库、索引、模板、评分规则、工作流和报告。
 - 用途：面向中国高校辅导员招聘考试备考者的通用备考辅助 Skill。
 - 适合交付给：正在备考高校辅导员招聘考试、需要题库训练和答题批改的同学。
@@ -13,4 +13,11 @@ usable-question-bank 总题量为 10681。
 https://github.com/yelucy8888-creator/-skill.git
 在codex等复制该链接并给出直接下载安装该skill指令。
  拿到后如何开始：先阅读 README.md 和 quick-start.md，再按 quick-start 中的指令开始训练。
+- 制定 30 天或 14 天备考计划
+- 从可用题库中出题训练
+- 批改简答题、论述题、案例分析和面试回答
+- 讲解辅导员岗位、学生工作和思政教育相关考点
+- 组织每日训练和错题复盘
+- 辅助公文写作训练
+- 复习 2025-2026 时政材料
 
