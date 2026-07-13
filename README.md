@@ -9,4 +9,5 @@
 - 不应承诺：不承诺押题、包过或替代官方公告。
 - 拿到后如何开始：先阅读 README.md 和 quick-start.md，再按 quick-start 中的指令开始训练。
 - 后续建议：根据同学使用反馈继续做 v1.1，重点补充判断题、拆分混合题型、人工核对高频题。
-https://github.com/yelucy8888-creator/-skill.git，在codex等复制该链接并给出直接下载安装该skill指令。
+https://github.com/yelucy8888-creator/-skill.git
+在codex等复制该链接并给出直接下载安装该skill指令。
