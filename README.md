@@ -1,7 +1,7 @@
 # Delivery Readme
 这是一个高校辅导员备考辅助 Skill为解决知识点琐碎没有体系的问题，里面包含政策学习、可用题库训练、案例分析、结构化面试、公文写作和答案批改等内容几乎涵盖所有知识点以及考点。拿到后建议先看 README.md 和 quick-start.md，直接复制里面的指令开始用。
 题库来源包括培训资料、模拟题、真题回忆。
-- 压缩包名称：college-counselor-prep-v1.3-usable-question-bank.zip
+- 压缩包名称：college-counselor-prep-v1.4-usable-question-bank.zip
 - 压缩包内容：`college-counselor-prep/` Skill 目录，包含 SKILL.md、README、quick-start、source-disclaimer、usable 题库、索引、模板、评分规则、工作流和报告。
 - 用途：面向中国高校辅导员招聘考试备考者的通用备考辅助 Skill。
 - 适合交付给：正在备考高校辅导员招聘考试、需要题库训练和答题批改的同学。
